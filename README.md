@@ -5,7 +5,7 @@
 
 ### Dependencies
 * Any modern browser (i.e. Firefox, Chrome, Edge, Safari)
-* Internal user access to Sonatype Aha instance
+* Sonatype employee with access to the Sonatype Aha instance
 
 ### Installation
 

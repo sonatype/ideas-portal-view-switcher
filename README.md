@@ -49,4 +49,4 @@ javascript: (() => {
 2. Click on the bookmarklet
 
 ## License
-TBD
+Distributed under the Apache-2.0 License. See the 'LICENSE' for more information.
